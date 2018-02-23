@@ -1,16 +1,16 @@
 #include "SoccerPitch.h"
 #include "SoccerBall.h"
 #include "Goal.h"
-#include "Game/Region.h"
-#include "2D/Transformations.h"
-#include "2D/Geometry.h"
+#include "../Common/Game/Region.h"
+#include "../Common/2D/Transformations.h"
+#include "../Common/2D/geometry.h"
 #include "SoccerTeam.h"
-#include "Debug/DebugConsole.h"
-#include "Game/EntityManager.h"
+#include "../Common/Debug/DebugConsole.h"
+#include "../Common/Game/EntityManager.h"
 #include "ParamLoader.h"
 #include "PlayerBase.h"
 #include "TeamStates.h"
-#include "misc/FrameCounter.h"
+#include "../Common/misc/FrameCounter.h"
 
 const int NumRegionsHorizontal = 6; 
 const int NumRegionsVertical   = 3;

@@ -9,9 +9,9 @@
 //  Author: Mat Buckland 2003 (fup@ai-junkie.com)
 //
 //------------------------------------------------------------------------
-#include "2D/Vector2D.h"
+#include "../Common/2D/Vector2D.h"
 #include "PlayerBase.h"
-#include "FSM/StateMachine.h"
+#include "../Common/FSM/StateMachine.h"
 
 class PlayerBase;
 

@@ -18,11 +18,11 @@
 #include <cassert>
 
 #include "FieldPlayerStates.h"
-#include "2D/Vector2D.h"
-#include "FSM/StateMachine.h"
+#include "../Common/2D/Vector2D.h"
+#include "../Common/FSM/StateMachine.h"
 #include "PlayerBase.h"
-#include "FSM/StateMachine.h"
-#include "time/Regulator.h"
+#include "../Common/FSM/State.h"
+#include "../Common/Time/Regulator.h"
 
 class CSteeringBehavior;
 class SoccerTeam;

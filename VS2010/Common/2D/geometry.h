@@ -9,10 +9,10 @@
 //Author: Mat Buckland (fup@ai-junkie.com)
 //
 //------------------------------------------------------------------------
-#include "misc/utils.h"
-#include "2d/Vector2D.h"
-#include "2d/C2DMatrix.h"
-#include "Transformations.h"
+#include "../misc/utils.h"
+#include "../2D/Vector2D.h"
+#include "../2D/C2DMatrix.h"
+#include "../2D/Transformations.h"
 
 #include <math.h>
 #include <vector>

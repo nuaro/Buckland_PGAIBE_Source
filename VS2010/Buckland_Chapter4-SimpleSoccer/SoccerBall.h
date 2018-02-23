@@ -14,7 +14,7 @@
 //------------------------------------------------------------------------
 #include <vector>
 
-#include "Game/MovingEntity.h"
+#include "../Common/Game/MovingEntity.h"
 #include "constants.h"
 
 

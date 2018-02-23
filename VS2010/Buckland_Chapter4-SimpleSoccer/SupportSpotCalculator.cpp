@@ -3,12 +3,12 @@
 #include "Goal.h"
 #include "SoccerBall.h"
 #include "constants.h"
-#include "time/regulator.h"
+#include "../Common/Time/Regulator.h"
 #include "SoccerTeam.h"
 #include "ParamLoader.h"
 #include "SoccerPitch.h"
 
-#include "debug/DebugConsole.h"
+#include "../Common/Debug/DebugConsole.h"
 
 //------------------------------- dtor ----------------------------------------
 //-----------------------------------------------------------------------------

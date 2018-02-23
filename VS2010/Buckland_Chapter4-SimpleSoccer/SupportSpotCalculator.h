@@ -14,9 +14,9 @@
 
 #include <vector>
 
-#include "Game/Region.h"
-#include "2D/Vector2D.h"
-#include "misc/Cgdi.h"
+#include "../Common/Game/Region.h"
+#include "../Common/2D/Vector2D.h"
+#include "../Common/misc/Cgdi.h"
 
 
 class PlayerBase;

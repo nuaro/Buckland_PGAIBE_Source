@@ -1,12 +1,12 @@
 #include "GoalKeeper.h"
-#include "misc/Cgdi.h"
+#include "../Common/misc/Cgdi.h"
 #include "SteeringBehaviors.h"
 #include "SoccerTeam.h"
 #include "SoccerPitch.h"
-#include "2D/transformations.h"
+#include "../Common/2D/Transformations.h"
 #include "GoalKeeperStates.h"
 #include "Goal.h"
-#include "game/EntityFunctionTemplates.h"
+#include "../Common/Game/EntityFunctionTemplates.h"
 #include "ParamLoader.h"
 
 

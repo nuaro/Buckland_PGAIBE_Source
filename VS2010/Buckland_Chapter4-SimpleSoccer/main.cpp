@@ -3,14 +3,14 @@
 #include <time.h>
 
 #include "constants.h"
-#include "misc/utils.h"
-#include "Time/PrecisionTimer.h"
+#include "../Common/misc/utils.h"
+#include "../Common/Time/PrecisionTimer.h"
 #include "SoccerPitch.h"
-#include "misc/Cgdi.h"
+#include "../Common/misc/Cgdi.h"
 #include "ParamLoader.h"
 #include "Resource.h"
-#include "misc/WindowUtils.h"
-#include "debug/DebugConsole.h"
+#include "../Common/misc/WindowUtils.h"
+#include "../Common/Debug/DebugConsole.h"
 
 
 //--------------------------------- Globals ------------------------------
